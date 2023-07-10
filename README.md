@@ -92,7 +92,8 @@ You can view my resume [here](https://docs.google.com/document/d/1XzBNKwZHKv7e_g
 * Mind Maps & Diagrams: Microsoft Visio, Miro, Confluence
 
 ### Languages
-* Familiar with Java, Python, SQL (Can read code. Can write basic functions.) 
+* Familiar with Java, Python, SQL (Can read code. Can write basic functions.)
+* Experience executing automated tests and troubleshooting
 
 ### Courses
 * Google Data Analytics Professional Certificate (In progress) - Coursera
