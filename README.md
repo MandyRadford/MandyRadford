@@ -24,7 +24,11 @@ In addition to my technical skills, I have a Bachelor's degree in Political Scie
 
 I have a strong understanding of Agile/Scrum and Waterfall methodologies and can effectively adapt to different project environments. I excel in defect tracking, utilizing tools such as Jira, Serena Business Manager, and Radar to manage and resolve issues comprehensively. I am familiar with regulatory compliance, including FDA and ISO standards like IEC 62304, ISO 13485, ISO 14971, 21 CFR Part 820, and Part 11, ensuring that software products meet the required industry guidelines.
 
-I am passionate about delivering quality and data-driven results, consistently striving for excellence in every project I undertake. With a combination of technical expertise, a solid understanding of software development methodologies, and the transferable skills gained from my degree in Political Science, I bring a unique perspective and a strong foundation to any QA Engineering role.
+I'm eager to put my current skills to use, and I'm equally excited about the prospect of learning new skills and processes.
+
+<!--
+I am passionate about delivering quality and data-driven results, consistently striving for excellence in every project I undertake. With a combination of technical expertise, a solid understanding of software development methodologies, and the transferable skills gained from my degree in Political Science, I bring a unique perspective and a strong foundation to any QA Engineering role. 
+-->
 
 ## Resume
 You can view my resume [here](https://docs.google.com/document/d/1XzBNKwZHKv7e_gcJvMKvwRHdS4W1f7aNVRTKvtuGwTQ/edit?usp=sharing).
@@ -49,7 +53,7 @@ You can view my resume [here](https://docs.google.com/document/d/1XzBNKwZHKv7e_g
 
 ### Software Testing
 * Proficient in performing manual testing of complex applications 
-* Experience in executing and troubleshooting automated test cases
+* Experience executing and troubleshooting automated test cases
 * Expertise in functional testing, regression testing, integration testing, system testing, usability testing, and user acceptance testing (UAT)
 * Experience in compatibility testing across multiple platforms and devices
 * Proficient in cross-browser testing and mobile application testing
@@ -88,7 +92,7 @@ You can view my resume [here](https://docs.google.com/document/d/1XzBNKwZHKv7e_g
 * Mind Maps & Diagrams: Microsoft Visio, Miro, Confluence
 
 ### Languages
-* Familiar with Java, Python, SQL
+* Familiar with Java, Python, SQL 
 
 ### Courses
 * Google Data Analytics Professional Certificate (In progress) - Coursera
