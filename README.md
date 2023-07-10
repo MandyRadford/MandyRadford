@@ -92,11 +92,11 @@ You can view my resume [here](https://docs.google.com/document/d/1XzBNKwZHKv7e_g
 * Mind Maps & Diagrams: Microsoft Visio, Miro, Confluence
 
 ### Languages
-* Familiar with Java, Python, SQL 
+* Familiar with Java, Python, SQL (Can read code. Can write basic functions.) 
 
 ### Courses
 * Google Data Analytics Professional Certificate (In progress) - Coursera
 * Python Programming MOOC (In progress) -  University of Helsinki
 * Object-oriented programming with Java (In progress) -  University of Helsinki
-* Scrum Master Certification - LearnQuest	                                                                                                                          
+* Scrum Master Certification - LearnQuest	                                                                                                                         
 * Advanced Python Programming - RMOTR      
